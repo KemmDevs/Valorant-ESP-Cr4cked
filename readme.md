@@ -10,7 +10,7 @@
 
 ## FEATURES
 > - ESP is Fully customizable
-> - Fully UD Software
+> - Fully undetected Software
 > - Update the software for soon (I will add an aimbot)
 
 ## Credits 
